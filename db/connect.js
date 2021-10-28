@@ -1,0 +1,1 @@
+const connectionString = 'mongodb+srv://chinedu:tM6fZo3rZFcR9Nv6@nodeexpressprojects.syljw.mongodb.net/TASK-MANAGER?retryWrites=true&w=majority'
