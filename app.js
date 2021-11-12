@@ -7,6 +7,8 @@ const connectDB = require('./config/db')
 // load env vars
 dotenv.config({path: './config/config.env'});
 
+app.use(express.json());
+
 connectDB()
 
 const port = 3000
